@@ -7,3 +7,5 @@ $ java -jar path/to/task-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 Build on Linux with maven:
 $ mvn -f path/to/pom.xml clean install -U
+
+Download .jar file - https://github.com/mikhail5545/testTaskLinux/releases/tag/preview
